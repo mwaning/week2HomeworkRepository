@@ -1,0 +1,58 @@
+h1 {
+    color: green;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+p {
+    margin-bottom: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h2 {
+    color: green;
+    font-size: 30px;
+    margin-left: -200px;
+}
+
+.stats {
+    background-color: lightgray;
+    width: 500px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.moves {
+    color: green;
+    font-size: 30px;
+    margin-left: -50px;
+}
+
+div {
+    background-color: lightgray;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+footer {
+    height: 75px;
+    width: 100%;
+    background-color: lightgray;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
